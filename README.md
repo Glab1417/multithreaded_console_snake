@@ -1,4 +1,4 @@
-# Multithreaded_console_snake
+# Multithreaded console snake
 Simple console snake game written using multithreading
 This is a mini snake game in the console. The snake field is 20x10 cells. A snake consists of two symbols: @ and x, where @ is the head and x is the body. An empty cell is *, and an apple is 0. The controls are WASD, and the program reads directly from the keyboard. Also, pressing the q button ends the game immediately.
 
