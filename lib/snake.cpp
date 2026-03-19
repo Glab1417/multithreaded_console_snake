@@ -6,8 +6,8 @@
 #include <cstdlib> 
 #include <ctime>
 #include <conio.h>
-#include <snake.h>
 
+#include "snake.h"
 
 
 void Game::spawn_apple() {
