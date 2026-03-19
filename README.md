@@ -1,4 +1,4 @@
-# multithreaded_console_snake
+# Multithreaded_console_snake
 Simple console snake game written using multithreading
 This is a mini snake game in the console. The snake field is 20x10 cells. The controls are WASD, and the program reads directly from the keyboard.
 To start, run the main.cpp file, and the game will appear in the console:
