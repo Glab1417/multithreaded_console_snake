@@ -1,4 +1,3 @@
-#include <C:\Users\016Aip25_2\snake.h>
 #include <iostream>
 #include <thread>
 #include <mutex>
@@ -7,6 +6,8 @@
 #include <cstdlib>
 #include <ctime>
 #include <conio.h>
+
+#include "../lib/snake.h"
 
 int main() {
     srand(time(0));
